@@ -1,0 +1,7 @@
+# PDF des articles (gros fichiers, disponibles en ligne)
+papiers/*.pdf
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

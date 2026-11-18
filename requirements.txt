@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+jupyterlab
+particles   # paquet SMC de N. Chopin (utilisé à partir du notebook 02)
