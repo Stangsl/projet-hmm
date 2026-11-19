@@ -24,8 +24,6 @@ Une explication simple du papier se trouve dans [notes/comprendre_le_papier.md](
 - [ ] **06 — Bonus** : comparaison avec MCGdiff (Cardoso et al., 2024).
 - [ ] Slides + notebook final.
 
-**À rendre au plus tard le dimanche 10 janvier 2027** : code (lien GitHub), slides, notebook (optionnel).
-Oral de 15 minutes.
 
 ## Organisation
 
